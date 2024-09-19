@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicketMachine
+comment1.params=ticketPrice
+comment1.target=TicketMachine(int)
+comment2.params=
+comment2.target=int\ getHarga()
+comment3.params=
+comment3.target=int\ getSaldo()
+comment4.params=amount
+comment4.target=void\ masukkanUang(int)
+comment5.params=
+comment5.target=void\ printTiket()
+comment6.params=
+comment6.target=int\ kembalian()
+comment7.params=
+comment7.target=int\ getTotal()
+numComments=8
