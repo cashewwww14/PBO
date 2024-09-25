@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Multiply
+comment1.params=num1\ num2
+comment1.target=double\ operate(double,\ double)
+numComments=2
