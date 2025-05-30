@@ -1,3 +1,5 @@
+# Ahmad Zaky Ash Shidqi - 5025231229
+
 ## Pemrograman Berbasis Objek (PBO)
 
 Mata kuliah **Pemrograman Berbasis Objek** (PBO) membahas konsep dan implementasi pemrograman berorientasi objek menggunakan bahasa **Java**. Seluruh praktikum dan tugas dalam mata kuliah ini dijalankan menggunakan **BlueJ**, sebuah IDE yang dirancang khusus untuk pembelajaran Java dan visualisasi struktur objek.
